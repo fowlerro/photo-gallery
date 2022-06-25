@@ -30,9 +30,12 @@
     "styled-components": "^5"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
     "@craco/craco": "^6.4.3",
     "antd": "^4.21.3",
     "craco-less": "^2.0.0",
+    "dexie": "^3.2.2",
+    "dexie-react-hooks": "^1.1.1",
     "i18next": "^21.8.10",
     "i18next-browser-languagedetector": "^6.1.4",
     "i18next-http-backend": "^1.4.1",
